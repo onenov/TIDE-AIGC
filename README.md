@@ -1,6 +1,5 @@
 <div align="center">
 <img width="100%" src="https://io.onenov.cn/file/202411080347009.png" alt="logo">
-<p align="center">更好的 AI与增强的答案</p>
 </div>
 
 > **新版本采用 Gin + Vite5 TypeScript Vue3 技术栈，拥有极致的响应速度；在更简洁的界面下保留完整功能，拥有更多的细节但是更加轻量化，拥有新的UI及交互方式，内置6组不同风格的显示效果，以及更流畅的使用体验。**
@@ -15,6 +14,7 @@
 + 插件：支持联网搜索丨文件问答丨 URL解析丨图像识别丨HTML代码运行等；
 + 支付：支付宝、微信、易支付
 + 登录：邮箱、短信验证、QQ、微信
++ 客户端：Android iOS Windows MacOS支持
 + 更多特性：请直接访问演示站或访问[官网](https://orence.cn)
 
 ## 扩展能力
@@ -39,7 +39,7 @@
 ≥4Core/4GRAM，推荐 Ubuntu20+
 ```
 
-## 截屏
+## 更多
 ![](https://io.onenov.cn/file/202411080358977.png)
 ![](https://io.onenov.cn/file/202411080359442.png)
 ![](https://io.onenov.cn/file/202411080359652.png)
