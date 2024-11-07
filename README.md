@@ -1,6 +1,5 @@
 <div align="center">
 <img width="100%" src="https://io.onenov.cn/file/202411080347009.png" alt="logo">
-<h1 align="center">潮汐AIGC问答系统 V2.0</h1>
 <p align="center">更好的 AI与增强的答案</p>
 </div>
 
@@ -39,6 +38,16 @@
 ```
 ≥4Core/4GRAM，推荐 Ubuntu20+
 ```
+
+## 截屏
+![](https://io.onenov.cn/file/202411080358977.png)
+![](https://io.onenov.cn/file/202411080359442.png)
+![](https://io.onenov.cn/file/202411080359652.png)
+![](https://io.onenov.cn/file/202411080400761.png)
+![](https://io.onenov.cn/file/202411080359411.png)
+![](https://io.onenov.cn/file/202411080359363.png)
+![](https://io.onenov.cn/file/202411080359741.png)
+![](https://io.onenov.cn/file/202411080359682.png)
 
 ## 浏览器支持
 
